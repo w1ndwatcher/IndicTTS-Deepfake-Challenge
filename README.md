@@ -4,7 +4,7 @@ A binary audio classifier that distinguishes AI-generated (TTS) speech from
 authentic human speech, fine-tuned on the IndicTTS Deepfake Challenge dataset
 and deployed as a containerized inference API with a React demo console.
 
-**[Live demo](#) · [Model card](https://huggingface.co/Khon198/indictts-deepfake-detector) · [API docs](https://deepfake-api.politepond-e94e5adf.centralindia.azurecontainerapps.io/docs)**
+**[Live demo](https://mango-pebble-09ffe8d10.7.azurestaticapps.net) · [Model card](https://huggingface.co/Khon198/indictts-deepfake-detector) · [API docs](https://deepfake-api.politepond-e94e5adf.centralindia.azurecontainerapps.io/docs)**
 
 ---
 

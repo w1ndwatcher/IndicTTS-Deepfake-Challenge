@@ -1,0 +1,162 @@
+[
+  {
+    "language": "Assamese",
+    "label": "authentic",
+    "filename": "Assamese_real.wav"
+  },
+  {
+    "language": "Assamese",
+    "label": "synthetic",
+    "filename": "Assamese_fake.wav"
+  },
+  {
+    "language": "Bengali",
+    "label": "authentic",
+    "filename": "Bengali_real.wav"
+  },
+  {
+    "language": "Bengali",
+    "label": "synthetic",
+    "filename": "Bengali_fake.wav"
+  },
+  {
+    "language": "Bodo",
+    "label": "authentic",
+    "filename": "Bodo_real.wav"
+  },
+  {
+    "language": "Bodo",
+    "label": "synthetic",
+    "filename": "Bodo_fake.wav"
+  },
+  {
+    "language": "Dogri",
+    "label": "authentic",
+    "filename": "Dogri_real.wav"
+  },
+  {
+    "language": "Dogri",
+    "label": "synthetic",
+    "filename": "Dogri_fake.wav"
+  },
+  {
+    "language": "English",
+    "label": "authentic",
+    "filename": "English_real.wav"
+  },
+  {
+    "language": "English",
+    "label": "synthetic",
+    "filename": "English_fake.wav"
+  },
+  {
+    "language": "Gujarati",
+    "label": "authentic",
+    "filename": "Gujarati_real.wav"
+  },
+  {
+    "language": "Gujarati",
+    "label": "synthetic",
+    "filename": "Gujarati_fake.wav"
+  },
+  {
+    "language": "Hindi",
+    "label": "authentic",
+    "filename": "Hindi_real.wav"
+  },
+  {
+    "language": "Hindi",
+    "label": "synthetic",
+    "filename": "Hindi_fake.wav"
+  },
+  {
+    "language": "Kannada",
+    "label": "authentic",
+    "filename": "Kannada_real.wav"
+  },
+  {
+    "language": "Kannada",
+    "label": "synthetic",
+    "filename": "Kannada_fake.wav"
+  },
+  {
+    "language": "Malayalam",
+    "label": "authentic",
+    "filename": "Malayalam_real.wav"
+  },
+  {
+    "language": "Malayalam",
+    "label": "synthetic",
+    "filename": "Malayalam_fake.wav"
+  },
+  {
+    "language": "Manipuri",
+    "label": "authentic",
+    "filename": "Manipuri_real.wav"
+  },
+  {
+    "language": "Manipuri",
+    "label": "synthetic",
+    "filename": "Manipuri_fake.wav"
+  },
+  {
+    "language": "Marathi",
+    "label": "authentic",
+    "filename": "Marathi_real.wav"
+  },
+  {
+    "language": "Marathi",
+    "label": "synthetic",
+    "filename": "Marathi_fake.wav"
+  },
+  {
+    "language": "Nepali",
+    "label": "authentic",
+    "filename": "Nepali_real.wav"
+  },
+  {
+    "language": "Nepali",
+    "label": "synthetic",
+    "filename": "Nepali_fake.wav"
+  },
+  {
+    "language": "Odia",
+    "label": "authentic",
+    "filename": "Odia_real.wav"
+  },
+  {
+    "language": "Odia",
+    "label": "synthetic",
+    "filename": "Odia_fake.wav"
+  },
+  {
+    "language": "Sanskrit",
+    "label": "authentic",
+    "filename": "Sanskrit_real.wav"
+  },
+  {
+    "language": "Sanskrit",
+    "label": "synthetic",
+    "filename": "Sanskrit_fake.wav"
+  },
+  {
+    "language": "Tamil",
+    "label": "authentic",
+    "filename": "Tamil_real.wav"
+  },
+  {
+    "language": "Tamil",
+    "label": "synthetic",
+    "filename": "Tamil_fake.wav"
+  },
+  {
+    "language": "Telugu",
+    "label": "authentic",
+    "filename": "Telugu_real.wav"
+  },
+  {
+    "language": "Telugu",
+    "label": "synthetic",
+    "filename": "Telugu_fake.wav"
+  }
+]
